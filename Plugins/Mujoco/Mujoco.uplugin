@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Mujoco",
+	"Description": "mujoco_ureal",
+	"Category": "Other",
+	"CreatedBy": "mike..miao",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Mujoco",
+			"Type": "Runtime",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
